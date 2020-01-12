@@ -1,7 +1,7 @@
 # Build Week 1
 
 ## Prep for Build Week
-Wednesday of Sprint 2 talk to the students about build week, what to expect, and getting a dataset. Set the expectation of getting a dataset no later than Wednesday of Sprint 3 so that you can review it and ensure it is a useable dataset. Copy and paste the following:
+**Wednesday of Sprint 2** talk to the students about build week, what to expect, and getting a dataset. Set the expectation of getting a dataset no later than Wednesday of Sprint 3 so that you can review it and ensure it is a useable dataset. Copy and paste the following:
 
 ```
 Here are resources for the first build week. Take a look to get an idea of what is expected and what types of projects/datasets you can do. Remember, pick out a dataset by Wednesday of next week.
@@ -10,7 +10,7 @@ Repo - https://github.com/LambdaSchool/DS-Unit-1-Build
 DS10 Presentations - https://www.youtube.com/watch?v=xZmvcGN9yqY&feature=youtu.be
 ```
 
-Friday of Sprint 2, immediately after lunch copy and paste the following.
+**Friday of Sprint 2**, immediately after lunch copy and paste the following.
 ```
 If you haven't already picked out a dataset for your build week project, please take some time over the weekend to start looking for one. You can use sites like Kaggle, Dataworld, and UCI to find a large number of datasets, just avoid the overdone ones like the UCI top ten or Kaggle's Titanic dataset. You can also try your hand at webscraping but if that is your plan you should start that immediately, you don't want to go into build week still trying to collect your data. 
 
@@ -20,13 +20,13 @@ Repo - https://github.com/LambdaSchool/DS-Unit-1-Build
 DS10 Presentations - https://www.youtube.com/watch?v=xZmvcGN9yqY&feature=youtu.be
 ```
 
-Wednesday of Sprint 3, review student datasets to ensure they are useable. Focus on size (not too small or too big), possible research questions, and student ability to clean and manipulate the data.
+**Wednesday of Sprint 3**, review student datasets to ensure they are useable. Focus on size (not too small or too big), possible research questions, and student ability to clean and manipulate the data.
 
-Friday of Sprint 3, remind students during the Sprint Challenge review that they need to have a dataset ready to use on Monday and that if possible they should spend time over the weekend to load, clean, and explore the dataset to set them up for success going into build week. Copy and Paste the 'Build Week Schedule and Expectations' below.
+**Friday of Sprint 3**, remind students during the Sprint Challenge review that they need to have a dataset ready to use on Monday and that if possible they should spend time over the weekend to load, clean, and explore the dataset to set them up for success going into build week. Copy and Paste the 'Build Week Schedule and Expectations' below.
 
 ## Build Week Schedule and Expectations
 
-Copy and Paste into TL Channel on the Friday afternoon before build week.
+Copy and Paste into TL Channel on the **Friday afternoon before build week.**
 ```
 Schedule, Expectations, and Resources for your firtst build week:
 
@@ -46,7 +46,7 @@ Friday: Presentations to the whole class. Push your project to github and portfo
 ```
 
 ## Notebook Expectations and Tips
-Copy and Paste into TL Channel on Tuesday Morning of Build Week
+Copy and Paste into TL Channel on **Tuesday Morning of Build Week**
 ```
 Notebook Expectations
 ------------------------
@@ -79,7 +79,7 @@ You are expected to complete the "Must Haves" and the Ancillary Details for your
 ```
 
 ## Presentation Expectations and Tips
-Copy and Paste this to the TL channel on Tuesday afternoon of Build Week
+Copy and Paste this to the TL channel on **Tuesday afternoon of Build Week**
 ```
 How to give a good presentation:
 ---------------------------------
@@ -100,7 +100,7 @@ DON'T
 ```
 
 ## Deliverables
-Copy and Paste this to the TL channel on Thursday afternoon of Build Week
+Copy and Paste this to the TL channel on **Thursday afternoon of Build Week**
 
 ```
 Minimum To-Do/Turn In By EOD
