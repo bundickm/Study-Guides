@@ -114,7 +114,7 @@ Rubric and Further Details Here: https://github.com/LambdaSchool/DS-Unit-1-Build
 ```
 
 ## Final Day of Build Week
--Communicate the schedule for the day, and what time they have remaining should the students still need to work on their projects.
--Encourage students to attend the presentations for labs and other cohorts as time allows.
--Give words of encouragement in your TL channel at the start of the presentation time.
--DM each of your students after their presentations to congratulate them.
+- Communicate the schedule for the day, and what time they have remaining should the students still need to work on their projects.
+- Encourage students to attend the presentations for labs and other cohorts as time allows.
+- Give words of encouragement in your TL channel at the start of the presentation time.
+- DM each of your students after their presentations to congratulate them.
