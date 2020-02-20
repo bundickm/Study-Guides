@@ -45,7 +45,7 @@ Create a file named `study_part1.py` and complete the exercise below. The only l
 2. Create a table with the following columns
 ```
  student - string
- studied - boolean
+ studied - string
  grade - int
  age - int
  sex - string
@@ -53,11 +53,11 @@ Create a file named `study_part1.py` and complete the exercise below. The only l
 
 3. Fill the table with the following data
 ```
- 'Lion-O', True, 85, 24, 'Male'
- 'Cheetara', True, 95, 22, 'Female'
- 'Mumm-Ra', False, 65, 153, 'Male'
- 'Snarf', False, 70, 15, 'Male'
- 'Panthro', True, 80, 30, 'Male'
+ 'Lion-O', 'True', 85, 24, 'Male'
+ 'Cheetara', 'True', 95, 22, 'Female'
+ 'Mumm-Ra', 'False', 65, 153, 'Male'
+ 'Snarf', 'False', 70, 15, 'Male'
+ 'Panthro', 'True', 80, 30, 'Male'
  ```
 4. Save your data. You can check that everything is working so far if you can view the table and data in DBBrowser
 5. Write the following queries to check your work. Querie outputs should be formatted for readability, don't simply print a number to the screen with no explanation, add context.
