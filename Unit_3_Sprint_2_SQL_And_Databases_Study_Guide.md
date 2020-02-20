@@ -79,8 +79,8 @@ Before we get started you'll need a few things.
 
 ### Queries
 **Single Table Queries**
-1. Find the average invoice total for each customer
-2. Return all the columns in Customer for any customers residing in the United States
+1. Find the average invoice total for each customer, return the details for the first 5 ID's
+2. Return all columns in Customer for the first 5 customers residing in the United States
 3. Which employee does not report to anyone?
 4. Find the number of unique composers
 5. How many rows are in the Track table?
