@@ -86,6 +86,7 @@ Before we get started you'll need a few things.
 5. How many rows are in the Track table?
 
 **Joins**
+
 6. Get the name of all Black Sabbath tracks and the albums they came off of
 7. What is the most popular genre by number of tracks?
 8. Find all customers that have spent over $40
