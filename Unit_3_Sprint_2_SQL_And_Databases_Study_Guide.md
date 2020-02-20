@@ -89,7 +89,7 @@ Before we get started you'll need a few things.
 
 6. Get the name of all Black Sabbath tracks and the albums they came off of
 7. What is the most popular genre by number of tracks?
-8. Find all customers that have spent over $40
+8. Find all customers that have spent over $45
 9. Find the first and last name, title, and the number of customers each employee has helped. If the customer count is 0 for an employee, it doesn't need to be displayed. Order the employees from most to least customers.
 10. Return the first and last name of each employee and who they report to
 
